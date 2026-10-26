@@ -1,0 +1,2 @@
+# exercicio_databricks_grupo_condor
+Repo criado para atividades e exercícios_Estagiários_2026
